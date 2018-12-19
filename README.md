@@ -1,2 +1,2 @@
-# 100Day-ML-Marathon
-100Day-ML-Marathon
+# ML100-Days
+ML100-Days
